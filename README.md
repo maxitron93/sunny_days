@@ -1,9 +1,10 @@
 # README
 ## Installation
-1. Open Terminal
-2. Within Terminal, go to the directory where your files will be saved.
-3. Within Terminal type "bundle install" to install all gems required.
-4. Within Terminal to run the program, type "ruby main.rb".
+1. Clone the files to your desired directory
+2. Open Terminal
+3. Within Terminal, go to the directory where your files will be saved.
+4. Within Terminal type "bundle install" to install all gems required.
+5. Within Terminal to run the program, type "ruby main.rb".
 
 ## Problem (conceptual)
 
