@@ -1,7 +1,8 @@
 # Context
-This terminal app was my first programming project, built with Ruby to work in the terminal. The app was over three days in partnership with Steven Christenson. This App allows users to enter a Country and City the want to visit, and returns the monthly climate information for the area. Users can use this app to identify the best time of year to go to their holiday destination.
+This terminal app was my first programming project, built with Ruby to work in the terminal. The app was over three days in partnership with [Steve Christenson](https://github.com/SteveGC86). This App allows users to enter a Country and City the want to visit, and returns the monthly climate information for the area. Users can use this app to identify the best time of year to go to their holiday destination.
 
 # Sunny Days
+![Preview](terminal_app.png)
 ## Installation
 1. Clone the files to your desired directory
 2. Open Terminal
