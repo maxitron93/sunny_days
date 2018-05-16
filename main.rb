@@ -57,14 +57,11 @@ while try_again == true
         table_headings = ['Month',"High#{176.chr(Encoding::UTF_8)}C", "Low#{176.chr(Encoding::UTF_8)}C", "Mean#{176.chr(Encoding::UTF_8)}C", 'Rain mm', 'Humidity %', 'Wind km/h', 'Sunrise', 'Sunset', 'Day Length']
         table = Terminal::Table.new :title => table_title, :headings => table_headings, :rows => final_array
 
-        system("clear")
-
         #Displays Table
         puts table
         
     rescue
-        
-        system("clear")
+    
         #If error occurs, puts comment and re-instates loop.
         try_again = true
         puts "No destination found. Please try again."
